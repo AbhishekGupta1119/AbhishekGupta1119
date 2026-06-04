@@ -1,16 +1,75 @@
-## Hi there 👋
+# Hi, I'm Abhishek Gupta 👋
 
-<!--
-**AbhishekGupta1119/AbhishekGupta1119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineer & Cloud Engineer
 
-Here are some ideas to get you started:
+AWS • .NET • Node.js • React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building scalable backend systems, microservices, workflow automation, and cloud-native solutions.
+
+---
+
+## 🚀 About Me
+
+- Backend and Cloud Engineer
+- Experienced in AWS, .NET, Node.js, and React
+- Designing scalable APIs and microservices
+- Building workflow automation and orchestration systems
+- Developing cloud-native applications and distributed systems
+- Passionate about system design and software architecture
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+- .NET
+- Node.js
+- Express.js
+- REST APIs
+
+### Frontend
+- React
+- JavaScript
+- HTML
+- CSS
+- Bootstrap
+
+### Cloud & DevOps
+- AWS Lambda
+- Amazon S3
+- CloudWatch
+- Serverless Architecture
+
+### Databases
+- PostgreSQL
+- SQL Server
+- Convex
+
+---
+
+## Featured Projects
+
+### Video KYC (VCIP) Platform
+Cloud-based video verification platform with AWS-powered video processing workflows.
+
+### TravelBuddy AI
+AI-powered virtual travel guide with itinerary planning and location recommendations.
+
+### ADV eKYC Platform
+Scalable identity verification and workflow automation solution.
+
+---
+
+## 🌱 Currently Exploring
+
+- Distributed Systems
+- System Design
+- Event-Driven Architecture
+- Cloud Optimization
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/abhishek-gupta-763021264
+- GitHub: github.com/AbhishekGupta1119
