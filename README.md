@@ -43,7 +43,6 @@ Building scalable backend systems, microservices, workflow automation, and cloud
 ### Databases
 - PostgreSQL
 - SQL Server
-- Convex
 
 ---
 
@@ -56,7 +55,7 @@ Cloud-based video verification platform with AWS-powered video processing workfl
 AI-powered virtual travel guide with itinerary planning and location recommendations.
 
 ### ADV eKYC Platform
-Scalable identity verification and workflow automation solution.
+Contributed to the design and enhancement of a microservices-based platform. Designed and implemented the AWS-based Video KYC (VCIP) ecosystem, including video processing workflows, cloud integrations, storage management, and supporting backend services.
 
 ---
 
