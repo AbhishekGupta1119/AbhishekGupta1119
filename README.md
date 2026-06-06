@@ -24,7 +24,6 @@ Building scalable backend systems, microservices, workflow automation, and cloud
 ### Backend
 - .NET
 - Node.js
-- Express.js
 - REST APIs
 
 ### Frontend
