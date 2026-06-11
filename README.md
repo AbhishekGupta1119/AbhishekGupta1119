@@ -2,7 +2,7 @@
 
 ## Software Engineer & Cloud Engineer
 
-AWS • .NET • Node.js • React
+AWS • .NET • Node.js • React • PostgreSQL
 
 Building scalable backend systems, microservices, workflow automation, and cloud-native solutions.
 
